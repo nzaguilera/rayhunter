@@ -5,7 +5,7 @@ If you're using Rayhunter (or trying to), we'd love to hear from you! Check out 
 * If you've received a Rayhunter warning, please send your Rayhunter data captures (the ZIP file) to us at our [Signal](https://signal.org/) username [**ElectronicFrontierFoundation.90**](https://signal.me/#eu/HZbPPED5LyMkbTxJsG2PtWc2TXxPUR1OxBMcJGLOPeeCDGPuaTpOi5cfGRY6RrGf) with the following information: capture date, capture location, device, device model, and Rayhunter version. 
 
   Note that the recording files are sensitive data and contain location
-  information, so we strongly recommend against posting them to publicly.
+  information, so we strongly recommend against posting them publicly.
 
   If you're unfamiliar with Signal, feel free to check out our [Security Self
   Defense guide on it](https://ssd.eff.org/module/how-to-use-signal).
